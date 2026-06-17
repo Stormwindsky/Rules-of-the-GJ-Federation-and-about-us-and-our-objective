@@ -1,3 +1,18 @@
+# UPDATE FROM 2026
+
+# THIS COMMUNITY CHANGED ITS FOCUS DUE TO A LACK OF SUCCESS, ETC., AND I REALIZED THAT IT
+# WASN'T REALLY POSSIBLE BECAUSE OF THE ARCHITECTURE OF THE GAMEJOLT WEBSITE
+
+
+
+
+
+
+
+
+
+
+
 # GJ Federation: Connecting Game Jolt to the Fediverse
 
 [![Community Link](https://img.shields.io/badge/Join_the_Community-Game_Jolt-green?style=for-the-badge)](https://gamejolt.com/c/Random-t5hewm)
